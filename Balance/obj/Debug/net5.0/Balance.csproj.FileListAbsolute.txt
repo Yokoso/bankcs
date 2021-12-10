@@ -1,0 +1,12 @@
+D:\repos\bank\Balance\bin\Debug\net5.0\Balance.deps.json
+D:\repos\bank\Balance\bin\Debug\net5.0\Balance.dll
+D:\repos\bank\Balance\bin\Debug\net5.0\ref\Balance.dll
+D:\repos\bank\Balance\bin\Debug\net5.0\Balance.pdb
+D:\repos\bank\Balance\obj\Debug\net5.0\Balance.csproj.AssemblyReference.cache
+D:\repos\bank\Balance\obj\Debug\net5.0\Balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\bank\Balance\obj\Debug\net5.0\Balance.AssemblyInfoInputs.cache
+D:\repos\bank\Balance\obj\Debug\net5.0\Balance.AssemblyInfo.cs
+D:\repos\bank\Balance\obj\Debug\net5.0\Balance.csproj.CoreCompileInputs.cache
+D:\repos\bank\Balance\obj\Debug\net5.0\Balance.dll
+D:\repos\bank\Balance\obj\Debug\net5.0\ref\Balance.dll
+D:\repos\bank\Balance\obj\Debug\net5.0\Balance.pdb
